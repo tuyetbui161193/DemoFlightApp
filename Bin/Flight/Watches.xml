@@ -1,4 +1,3 @@
 ﻿<Properties>
-  <WatchEntry0 value="Ubound(arrTestSet)" />
-  <WatchEntry1 value="strTestSetName" />
+  <WatchEntry0 value="strPrice" />
 </Properties>

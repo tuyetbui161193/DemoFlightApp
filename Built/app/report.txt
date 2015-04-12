@@ -1,25 +1,17 @@
                                              Agents Order Report
-                                                     John
+                                                     mercury
 __________________________________________________________________________________________________________
 Customer            Tickets      Price       Total  Order   Date   Airline    Departs    From
                                                     No.            Flight No. Arrives    To
 __________________________________________________________________________________________________________
-AD                       1     $111.47     $111.47   21   11/11/14   AF      10:24 AM    Paris       
-                                                                    17077    12:54 PM    Denver      
-aeda                     1     $119.20     $119.20   18   10/10/14   NW      02:57 PM    Denver      
-                                                                     1753    03:55 PM    Los Angeles 
-ansjb                    1     $222.00     $222.00   20   11/11/14   AA      03:48 PM    Frankfurt   
-                                                                    11121    04:31 PM    London      
-asd                      1     $310.40     $310.40   19   10/10/14   NW      10:46 AM    Frankfurt   
-                                                                    10638    12:41 PM    Paris       
-bihoul;io'p,             1     $173.47     $173.47   23   11/11/14   AF      08:00 AM    Denver      
-                                                                    15782    11:30 AM    Frankfurt   
+a                        1     $161.70     $161.70   53   04/15/15   SR      12:48 PM    Frankfurt   
+                                                                    13512    01:33 PM    London      
 Bob Johnson              2     $354.94     $709.88    8   08/09/14   AA      12:48 PM    Denver      
                                                                      6218    03:48 PM    Portland    
+Dkajsd kkj               1     $112.20     $112.20   13   12/12/09   AA      11:12 AM    Denver      
+                                                                    20256    06:23 PM    London      
 Fred Smith              20     $532.41   $10648.20    2   08/07/14   AA      03:12 PM    Seattle     
                                                                      1304    08:12 PM    Denver      
-giyuop                   1     $209.60     $209.60   22   11/11/14   AA      10:09 AM    Denver      
-                                                                     5385    11:06 AM    Los Angeles 
 Jack Barnes              2     $139.80     $279.60    9   08/09/14   AA      01:59 PM    Denver      
                                                                      7214    03:40 PM    Portland    
 Jane Doe                 9     $301.50    $2713.50    7   08/09/14   AA      08:00 AM    San Francisco
@@ -34,8 +26,40 @@ Kim Smith                6     $529.41    $3176.46    5   08/09/14   AA      08:
                                                                      6195    11:30 AM    San Francisco
 Mary Parker             20     $177.47    $3549.40    3   08/07/14   AA      03:12 PM    Seattle     
                                                                      1304    08:12 PM    Denver      
-Tuyet                    2     $336.60     $673.20   17   10/10/14   AA      08:12 AM    Denver      
-                                                                    20260    03:23 PM    London      
-Total Customer Count: 16
-  Total Ticket Count: 73
-         Total Sales: $11615.70
+Tuyet                    2     $369.60     $739.20   39   10/04/15   LH      10:33 AM    Denver      
+                                                                    13634    11:17 AM    Frankfurt   
+Tuyet                   10     $336.60    $3366.00   37   01/01/16   AA      08:12 AM    London      
+                                                                    20288    03:23 PM    Denver      
+Tuyet                    2     $517.41    $1034.82   52   04/12/15   AF      10:24 AM    Paris       
+                                                                    10572    01:54 PM    Frankfurt   
+Tuyet                    2     $517.41    $1034.82   40   04/12/15   AF      10:24 AM    Paris       
+                                                                    10572    01:54 PM    Frankfurt   
+Tuyet                    2     $517.41    $1034.82   41   04/12/15   AF      10:24 AM    Paris       
+                                                                    10572    01:54 PM    Frankfurt   
+Tuyet                    2     $517.41    $1034.82   42   04/12/15   AF      10:24 AM    Paris       
+                                                                    10572    01:54 PM    Frankfurt   
+Tuyet                    2     $517.41    $1034.82   43   04/12/15   AF      10:24 AM    Paris       
+                                                                    10572    01:54 PM    Frankfurt   
+Tuyet                    2     $517.41    $1034.82   44   04/12/15   AF      10:24 AM    Paris       
+                                                                    10572    01:54 PM    Frankfurt   
+Tuyet                    2     $517.41    $1034.82   45   04/12/15   AF      10:24 AM    Paris       
+                                                                    10572    01:54 PM    Frankfurt   
+Tuyet                    2     $517.41    $1034.82   46   04/12/15   AF      10:24 AM    Paris       
+                                                                    10572    01:54 PM    Frankfurt   
+Tuyet                    2     $517.41    $1034.82   47   04/12/15   AF      10:24 AM    Paris       
+                                                                    10572    01:54 PM    Frankfurt   
+Tuyet                    2     $517.41    $1034.82   48   04/12/15   AF      10:24 AM    Paris       
+                                                                    10572    01:54 PM    Frankfurt   
+Tuyet                    2     $517.41    $1034.82   49   04/12/15   AF      10:24 AM    Paris       
+                                                                    10572    01:54 PM    Frankfurt   
+Tuyet                    2     $517.41    $1034.82   50   04/12/15   AF      10:24 AM    Paris       
+                                                                    10572    01:54 PM    Frankfurt   
+Tuyet                    2     $517.41    $1034.82   51   04/12/15   AF      10:24 AM    Paris       
+                                                                    10572    01:54 PM    Frankfurt   
+Tuyet Bui                1     $302.40     $302.40   36   01/01/16   NW      06:57 PM    Denver      
+                                                                    14303    07:41 PM    Frankfurt   
+Tuyet Bui                1     $302.40     $302.40   38   01/01/16   NW      06:57 PM    Denver      
+                                                                    14303    07:41 PM    Frankfurt   
+Total Customer Count: 28
+  Total Ticket Count: 107
+         Total Sales: $16944.28

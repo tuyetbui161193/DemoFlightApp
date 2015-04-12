@@ -1,0 +1,41 @@
+;F101.00 Project file
+[OPTIONS]
+BUILD = BuildAll
+COMPRESS = False
+CONTENTS = CONTENTS
+COPYRIGHT = Visual Help Copyright© 1993 Firas Bushnaq
+OLDKEYPHRASE = False
+OPTCDROM = Yes
+REPORT = No
+TITLE = Flight Reservation Help Version 1.0
+WARNING = 1
+ 
+[FILES]
+c:\mercury\frs.rtf
+ 
+[CONFIG]
+RegisterRoutine("MMSYSTEM","sndPlaySound","Si")
+BrowseButtons()
+ 
+[BUILDTAGS]
+BuildAll
+ 
+[ALIAS]
+ 
+[BAGGAGE]
+
+ 
+[BITMAPS]
+
+ 
+[MAP]
+#include <frs.hh>
+ 
+[WINDOWS]
+MAIN = "Flight Reservation Help Version 1.0", , , , (192,192,192), 0
+Window1 = "", ( 0, 0, 1023, 1023), , , (192,192,192), 0
+Window2 = "", ( 0, 0, 1023, 1023), , , (192,192,192), 0
+Window3 = "", ( 0, 0, 1023, 1023), , , (192,192,192), 0
+Window4 = "Glossary", ( 0, 0, 1023, 1023), , , (192,192,192), 0
+Window5 = "Index", ( 0, 0, 1023, 1023), , , (192,192,192), 0
+ 
