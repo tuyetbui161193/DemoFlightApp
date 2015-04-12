@@ -1,0 +1,6 @@
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Test Set: TestSet.xls
+ 
+
+Test Case: F001 - Open the Flight application

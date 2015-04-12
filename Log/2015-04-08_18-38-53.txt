@@ -1,0 +1,9 @@
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Test Set: TestSet.xls
+ 
+
+Test Case: F001 - Open the Flight application
+6:38:56 PM	| Run 	| Preset_TestCase()
+6:38:57 PM	| 1	| Preset_TestCase()
+6:38:57 PM	| Run 	| Launch_App()

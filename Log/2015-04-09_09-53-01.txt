@@ -1,0 +1,28 @@
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Test Set: TestSet.xls
+ 
+
+Test Case: F001 - Open the Flight application
+9:53:04 AM	| Run 	| Preset_TestCase()
+9:53:06 AM	| 1	| Preset_TestCase()
+9:53:06 AM	| Run 	| Launch_App()
+9:53:06 AM	| 1	| Try to launch Flight application at path D:\NienLuan_LuanVan\LuanVan\Demo\Built\app\flight4a.exe  --> Passed
+9:53:07 AM	| 1	| Launch_App()
+
+Test Case: F002 - Login the Flight application
+9:53:11 AM	| Run 	| Login_App()
+9:53:26 AM	| 1	| Login_App testcase is passed  --> Passed
+9:53:27 AM	| 1	| Login_App()
+
+Test Case: F003 - Login the Flight application
+9:53:30 AM	| Run 	| Launch_App()
+9:53:31 AM	| 1	| Try to launch Flight application at path D:\NienLuan_LuanVan\LuanVan\Demo\Built\app\flight4a.exe  --> Passed
+9:53:32 AM	| 1	| Launch_App()
+ 
+Complete Test Set: TestSet.xls
+ 
+Update result of test set 'TestSet.xls'...
+Update result of test set 'TestSet.xls' --> Done
+Generate test report for test set 'TestSet.xls'...
+Generate test report for test set 'TestSet.xls' --> Done

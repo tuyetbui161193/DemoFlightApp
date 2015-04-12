@@ -1,0 +1,82 @@
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Test Set: TestSet.xls
+ 
+
+Test Case: F001 - Open the Flight application
+3:19:55 PM	| Run 	| Preset_TestCase()
+3:19:56 PM	| 1	| Preset_TestCase()
+3:19:56 PM	| Run 	| Launch_App()
+3:19:57 PM	| 1	| Try to launch Flight application at path D:\NienLuan_LuanVan\LuanVan\Demo\Built\app\flight4a.exe  --> Passed
+3:19:58 PM	| 1	| Launch_App()
+
+Test Case: F002 - Login the Flight application
+3:20:01 PM	| Run 	| Login_App()
+3:21:04 PM	| 1	| Login_App testcase is passed  --> Passed
+3:21:05 PM	| 1	| Login_App()
+ 
+Complete Test Set: TestSet.xls
+ 
+Update result of test set 'TestSet.xls'...
+Update result of test set 'TestSet.xls' --> Done
+Generate test report for test set 'TestSet.xls'...
+Generate test report for test set 'TestSet.xls' --> Done
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Test Set: TestSet.xls
+ 
+
+Test Case: F001 - Open the Flight application
+3:21:18 PM	| Run 	| Preset_TestCase()
+3:21:19 PM	| 1	| Preset_TestCase()
+3:21:19 PM	| Run 	| Launch_App()
+3:21:20 PM	| 1	| Try to launch Flight application at path D:\NienLuan_LuanVan\LuanVan\Demo\Built\app\flight4a.exe  --> Passed
+3:21:21 PM	| 1	| Launch_App()
+
+Test Case: F002 - Login the Flight application
+3:21:24 PM	| Run 	| Login_App()
+3:22:28 PM	| 1	| Login_App testcase is passed  --> Passed
+3:22:29 PM	| 1	| Login_App()
+ 
+Complete Test Set: TestSet.xls
+ 
+Update result of test set 'TestSet.xls'...
+Update result of test set 'TestSet.xls' --> Done
+Generate test report for test set 'TestSet.xls'...
+Generate test report for test set 'TestSet.xls' --> Done
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Test Set: TestSet.xls
+ 
+
+Test Case: F001 - Open the Flight application
+3:22:40 PM	| Run 	| Preset_TestCase()
+3:22:42 PM	| 1	| Preset_TestCase()
+3:22:42 PM	| Run 	| Launch_App()
+3:22:42 PM	| 1	| Try to launch Flight application at path D:\NienLuan_LuanVan\LuanVan\Demo\Built\app\flight4a.exe  --> Passed
+3:22:43 PM	| 1	| Launch_App()
+
+Test Case: F002 - Login the Flight application
+3:22:47 PM	| Run 	| Login_App()
+3:23:49 PM	| 1	| Login_App testcase is passed  --> Passed
+3:23:50 PM	| 1	| Login_App()
+ 
+Complete Test Set: TestSet.xls
+ 
+Update result of test set 'TestSet.xls'...
+Update result of test set 'TestSet.xls' --> Done
+Generate test report for test set 'TestSet.xls'...
+Generate test report for test set 'TestSet.xls' --> Done
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Test Set: TestSet.xls
+ 
+
+Test Case: F001 - Open the Flight application
+3:24:02 PM	| Run 	| Preset_TestCase()
+3:24:03 PM	| 1	| Preset_TestCase()
+3:24:03 PM	| Run 	| Launch_App()
+3:24:04 PM	| 1	| Try to launch Flight application at path D:\NienLuan_LuanVan\LuanVan\Demo\Built\app\flight4a.exe  --> Passed
+3:24:05 PM	| 1	| Launch_App()
+
+Test Case: F002 - Login the Flight application

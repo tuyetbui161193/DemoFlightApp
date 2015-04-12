@@ -1,0 +1,19 @@
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Test Set: TestSet.xls
+ 
+
+Test Case: F001 - Open the Flight application
+1:37:05 PM	| Run 	| Preset_TestCase()
+1:37:06 PM	| 1	| Preset_TestCase()
+1:37:06 PM	| Run 	| Launch_App()
+1:37:07 PM	| 1	| Try to launch Flight application at path D:\NienLuan_LuanVan\LuanVan\Demo\Built\app\flight4a.exe  --> Passed
+1:37:08 PM	| 1	| Launch_App()
+
+Test Case: F002 - Login the Flight application
+1:37:11 PM	| Run 	| Login_App()
+1:38:14 PM	| 1	| Login_App testcase is passed  --> Passed
+1:38:15 PM	| 1	| Login_App()
+
+Test Case: F003 - Book flight ticket
+1:38:17 PM	| Run 	| Book_flight()
