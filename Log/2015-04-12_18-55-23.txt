@@ -1,0 +1,37 @@
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Test Set: TestSet.xls
+ 
+
+Test Case: F001 - Open the Flight application
+6:55:28 PM	| Run 	| Preset_TestCase()
+6:55:30 PM	| 1	| Preset_TestCase()
+6:55:30 PM	| Run 	| Launch_App()
+6:55:30 PM	| 1	| Try to launch Flight application at path D:\NienLuan_LuanVan\LuanVan\Demo\Built\app\flight4a.exe  --> Passed
+6:55:32 PM	| 1	| Launch_App()
+
+Test Case: F002 - Login the Flight application
+6:55:36 PM	| Run 	| Login_App()
+6:56:40 PM	| 1	| Login_App testcase is passed  --> Passed
+6:56:41 PM	| 1	| Login_App()
+
+Test Case: F003 - Delete order
+6:56:46 PM	| Run 	| Delete_Order()
+6:56:48 PM	| 1	| Delete Order success  --> Passed
+6:56:49 PM	| 1	| Delete_Order()
+
+Test Case: F004 - Flight Booking
+6:56:54 PM	| Run 	| Book_Flight()
+6:56:58 PM	| 1	| Flight Date can not in the past  --> Failed
+6:57:01 PM	| 1	| Flight Date can not in the past  --> Failed
+6:57:14 PM	| 1	| Flight booking ticket successful  --> Passed
+6:57:15 PM	| 1	| Book_Flight()
+6:57:15 PM	| Run 	| BookFlight_CheckChangeFlow()
+6:57:34 PM	| -1	| Fly From and Fly To can not the same  --> Failed
+ 
+Complete Test Set: TestSet.xls
+ 
+Update result of test set 'TestSet.xls'...
+Update result of test set 'TestSet.xls' --> Done
+Generate test report for test set 'TestSet.xls'...
+Generate test report for test set 'TestSet.xls' --> Done

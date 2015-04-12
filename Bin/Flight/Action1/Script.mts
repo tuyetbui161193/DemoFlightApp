@@ -2,6 +2,7 @@
 		
 Dim rc, i, strTestSetName, arrTestSet, strReportFile, iElapsedTime
 
+
 Preset_TestSet
 OS_KillProcess LOCAL_HOST_NAME, EXCEL_PROCESS_NAME 
 '----------------------------------------------
@@ -58,4 +59,21 @@ For i = 0 To Ubound(arrTestSet)
 	
 	'===================================================
  @@ hightlight id_;_65806_;_script infofile_;_ZIP::ssf297.xml_;_
- @@ hightlight id_;_656612_;_script infofile_;_ZIP::ssf315.xml_;_
+' @@ hightlight id_;_656612_;_script infofile_;_ZIP::ssf315.xml_;_
+ @@ hightlight id_;_2426890_;_script infofile_;_ZIP::ssf322.xml_;_
+'Window("Flight Reservation").Dialog("Open Order").Dialog("Search Results").Activate @@ hightlight id_;_4720202_;_script infofile_;_ZIP::ssf323.xml_;_
+'Window("Flight Reservation").Dialog("Open Order").Dialog("Search Results").Activate @@ hightlight id_;_4720202_;_script infofile_;_ZIP::ssf324.xml_;_
+'Window("Flight Reservation").Dialog("Open Order").Dialog("Search Results").WinList("Flight No.").Select "Tuyet                   40        AF        10572         1    2 172.470004/12/2015      Sunday  PAR                         Paris  10:24 AM  FRA                     Frankfurt  01:54 PM" @@ hightlight id_;_5638040_;_script infofile_;_ZIP::ssf325.xml_;_
+'Window("Flight Reservation").Dialog("Open Order").Dialog("Search Results").WinButton("OK").Click @@ hightlight id_;_4589234_;_script infofile_;_ZIP::ssf326.xml_;_
+'Window("Flight Reservation").Dialog("Open Order").Activate @@ hightlight id_;_2295146_;_script infofile_;_ZIP::ssf327.xml_;_
+'Window("Flight Reservation").Activate @@ hightlight id_;_1180810_;_script infofile_;_ZIP::ssf328.xml_;_
+
+'Window("Flight Reservation").Dialog("Open Order").Activate @@ hightlight id_;_723224_;_script infofile_;_ZIP::ssf329.xml_;_
+'Window("Flight Reservation").Dialog("Open Order").Activate @@ hightlight id_;_723224_;_script infofile_;_ZIP::ssf330.xml_;_
+'Window("Flight Reservation").Dialog("Open Order").Dialog("Search Results").Activate @@ hightlight id_;_2360594_;_script infofile_;_ZIP::ssf332.xml_;_
+'Window("Flight Reservation").Dialog("Open Order").Dialog("Search Results").Activate @@ hightlight id_;_2360594_;_script infofile_;_ZIP::ssf333.xml_;_
+'Window("Flight Reservation").Dialog("Open Order").Dialog("Search Results").WinList("Flight No.").Activate "Tuyet                   36        AF        10512         1    2 132.470005/20/2015   Wednesday  PAR                         Paris  12:48 PM  FRA                     Frankfurt  04:18 PM" @@ hightlight id_;_133630_;_script infofile_;_ZIP::ssf334.xml_;_
+'Window("Flight Reservation").Dialog("Open Order").Activate @@ hightlight id_;_655990_;_script infofile_;_ZIP::ssf335.xml_;_
+'Window("Flight Reservation").Activate @@ hightlight id_;_526662_;_script infofile_;_ZIP::ssf336.xml_;_
+'Window("Flight Reservation").Dialog("Open Order").Close
+'Window("Flight Reservation").Activate @@ hightlight id_;_526662_;_script infofile_;_ZIP::ssf331.xml_;_
