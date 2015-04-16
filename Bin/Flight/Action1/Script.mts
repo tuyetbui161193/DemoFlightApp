@@ -3,6 +3,10 @@
 Dim rc, i, strTestSetName, arrTestSet, strReportFile, iElapsedTime
 
 
+	
+
+
+
 Preset_TestSet
 OS_KillProcess LOCAL_HOST_NAME, EXCEL_PROCESS_NAME 
 '----------------------------------------------
@@ -31,6 +35,7 @@ For i = 0 To Ubound(arrTestSet)
 	LogMessage(vbCrLf & "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-")
 	LogMessage("Test Set: " & strTestSetName)
 	RunTestSet()
+ @@ hightlight id_;_1312508_;_script infofile_;_ZIP::ssf356.xml_;_
 	LogMessage(" ")
 	LogMessage("Complete Test Set: " & strTestSetName)
 	LogMessage(" ")
@@ -68,12 +73,25 @@ For i = 0 To Ubound(arrTestSet)
 'Window("Flight Reservation").Dialog("Open Order").Activate @@ hightlight id_;_2295146_;_script infofile_;_ZIP::ssf327.xml_;_
 'Window("Flight Reservation").Activate @@ hightlight id_;_1180810_;_script infofile_;_ZIP::ssf328.xml_;_
 
-'Window("Flight Reservation").Dialog("Open Order").Activate @@ hightlight id_;_723224_;_script infofile_;_ZIP::ssf329.xml_;_
-'Window("Flight Reservation").Dialog("Open Order").Activate @@ hightlight id_;_723224_;_script infofile_;_ZIP::ssf330.xml_;_
-'Window("Flight Reservation").Dialog("Open Order").Dialog("Search Results").Activate @@ hightlight id_;_2360594_;_script infofile_;_ZIP::ssf332.xml_;_
-'Window("Flight Reservation").Dialog("Open Order").Dialog("Search Results").Activate @@ hightlight id_;_2360594_;_script infofile_;_ZIP::ssf333.xml_;_
-'Window("Flight Reservation").Dialog("Open Order").Dialog("Search Results").WinList("Flight No.").Activate "Tuyet                   36        AF        10512         1    2 132.470005/20/2015   Wednesday  PAR                         Paris  12:48 PM  FRA                     Frankfurt  04:18 PM" @@ hightlight id_;_133630_;_script infofile_;_ZIP::ssf334.xml_;_
-'Window("Flight Reservation").Dialog("Open Order").Activate @@ hightlight id_;_655990_;_script infofile_;_ZIP::ssf335.xml_;_
-'Window("Flight Reservation").Activate @@ hightlight id_;_526662_;_script infofile_;_ZIP::ssf336.xml_;_
-'Window("Flight Reservation").Dialog("Open Order").Close
-'Window("Flight Reservation").Activate @@ hightlight id_;_526662_;_script infofile_;_ZIP::ssf331.xml_;_
+' @@ hightlight id_;_1312508_;_script infofile_;_ZIP::ssf339.xml_;_
+'Window("Flight Reservation").Dialog("Flight Reservations").Activate @@ hightlight id_;_6161868_;_script infofile_;_ZIP::ssf340.xml_;_
+'Window("Flight Reservation").Dialog("Flight Reservations").Click 127,16 @@ hightlight id_;_6161868_;_script infofile_;_ZIP::ssf341.xml_;_
+'Window("Flight Reservation").Dialog("Flight Reservations").WinButton("OK").Click @@ hightlight id_;_658256_;_script infofile_;_ZIP::ssf342.xml_;_
+'Window("Flight Reservation").Activate @@ hightlight id_;_1312508_;_script infofile_;_ZIP::ssf343.xml_;_
+'Window("Flight Reservation").WinMenu("Menu").Select "File;New Order"
+'Window("Flight Reservation").WinMenu("Menu").Select "File;Open Order..."
+'Window("Flight Reservation").Dialog("Open Order").Activate @@ hightlight id_;_6358476_;_script infofile_;_ZIP::ssf344.xml_;_
+'Window("Flight Reservation").Dialog("Open Order").WinCheckBox("Customer Name").Set "ON" @@ hightlight id_;_2754002_;_script infofile_;_ZIP::ssf345.xml_;_
+'Window("Flight Reservation").Dialog("Open Order").WinEdit("Edit").Set "tuy" @@ hightlight id_;_8194348_;_script infofile_;_ZIP::ssf346.xml_;_
+'Window("Flight Reservation").Dialog("Open Order").WinButton("OK").Click @@ hightlight id_;_1313094_;_script infofile_;_ZIP::ssf347.xml_;_
+'Window("Flight Reservation").Dialog("Open Order").Dialog("Search Results").WinList("Flight No.").DblClick 103,13 @@ hightlight id_;_395648_;_script infofile_;_ZIP::ssf348.xml_;_
+'Window("Flight Reservation").Dialog("Open Order").Dialog("Search Results").WinButton("OK").Click @@ hightlight id_;_395636_;_script infofile_;_ZIP::ssf349.xml_;_
+'Window("Flight Reservation").Activate @@ hightlight id_;_1312508_;_script infofile_;_ZIP::ssf350.xml_;_
+'Window("Flight Reservation").Dialog("Flight Reservations").Activate @@ hightlight id_;_2427580_;_script infofile_;_ZIP::ssf351.xml_;_
+'Window("Flight Reservation").Dialog("Flight Reservations").WinButton("Yes").Click @@ hightlight id_;_5768828_;_script infofile_;_ZIP::ssf352.xml_;_
+'Window("Flight Reservation").Activate @@ hightlight id_;_1312508_;_script infofile_;_ZIP::ssf353.xml_;_
+'Window("Flight Reservation").Dialog("Flight Reservations").Close
+'Window("Flight Reservation").Activate @@ hightlight id_;_1312508_;_script infofile_;_ZIP::ssf354.xml_;_
+'Window("Flight Reservation").WinMenu("Menu").Select "File;Open Order..."
+'Window("Flight Reservation").Dialog("Flight Reservations").WinButton("No").Click @@ hightlight id_;_1772218_;_script infofile_;_ZIP::ssf355.xml_;_
+'Window("Flight Reservation").Activate

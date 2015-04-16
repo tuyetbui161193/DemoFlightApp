@@ -1,4 +1,4 @@
 ﻿<Properties>
-  <WatchEntry0 value="rowcount" />
-  <WatchEntry1 value="Check_existvalue" />
+  <WatchEntry0 value="Window(&quot;Flight Reservation&quot;).ChildObjects" />
+  <WatchEntry1 value="Window(&quot;Flight Reservation&quot;).ChildObjects" />
 </Properties>
